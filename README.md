@@ -6,11 +6,11 @@ Building scalable systems, automating workflows, and turning complex problems in
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/yohanes-kalisjati-06769520b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:joshvalens2.wibisono@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
@@ -61,10 +61,10 @@ Automated deployment and metadata synchronization service across cloud environme
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=YKalisjati&show_icons=true&theme=tokyonight"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YKalisjati&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -72,6 +72,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 - 🎨 Mural Painting & Color Theory
 - 🏔 Hiking & Outdoor Adventures
-- 🏍 Motorcycle Modification Enthusiast
-- 👟 Sneaker Collector
 - 🎴 One Piece TCG Collector
